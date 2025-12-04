@@ -39,14 +39,6 @@ I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 
 # 📊 GitHub Analytics
 
-### ⭐ **GitHub Stats**
-<p align="center">
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jewelj16&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
 ### 🔥 **GitHub Streak Stats**
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=jewelj16&theme=tokyonight" />
@@ -57,6 +49,14 @@ I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jewelj16&theme=matrix&row=1&column=6" />
+</p>
+
+---
+
+### ⭐ **Top Languages**
+<p align="center">
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jewelj16&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
