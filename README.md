@@ -41,9 +41,8 @@ I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 
 ### ⭐ **GitHub Stats**
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jewelj16&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelj16&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jewelj16&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jewelj16&show_icons=true&theme=tokyonight" />
+
 </p>
 
 ---
@@ -57,8 +56,6 @@ I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jewelj16&theme=matrix&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jewelj16&theme=matrix&row=1&column=6" />
   <img src="https://github-trophies.vercel.app/?username=jewelj16&theme=matrix&row=1&column=6" />
 </p>
 
