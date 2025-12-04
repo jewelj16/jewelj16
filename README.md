@@ -53,13 +53,13 @@ I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 
 ---
 
-### ⭐ **Top Languages**
+<!-- ### ⭐ **Top Languages**
 <p align="center">
 <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jewelj16&layout=compact&theme=tokyonight" />
 
 </p>
 
----
+--- -->
 
 # 🌐 Connect With Me
 <p>
