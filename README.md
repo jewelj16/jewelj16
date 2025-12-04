@@ -1,14 +1,18 @@
-# Hi there, I’m Jewel 👋
+<!-- =======================  TOP BANNER  ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c8bf5,100:1e3c72&height=220&text=Hi%20There%20👋%20I'm%20Jewel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## About Me  
-I’m Jewel — a passionate software engineer and computer-science enthusiast.  
+# 👨‍💻 About Me  
+I’m **Jewel**, a passionate software engineer and computer-science enthusiast.
 
-I worked for **2 years as a Software Engineer at KeyValue Software Systems**, where I gained hands-on experience building production-grade systems and writing clean, maintainable code.  
-I’m currently pursuing my **Master’s in Computer Science & Engineering at IIIT Hyderabad**, diving deeper into advanced CS concepts, research, and systems.
+- Worked **2 years as a Software Engineer at Keyvalue Software Systems**  
+- Currently pursuing **Masters in CSE at IIIT Hyderabad**  
+- Interested in systems, backend engineering & CS fundamentals  
 
 ---
 
-## 🛠️ Languages & Tools  
+# 🛠️ Languages & Tools  
 
 ### **Programming Languages**
 <p>
@@ -33,26 +37,53 @@ I’m currently pursuing my **Master’s in Computer Science & Engineering at II
 
 ---
 
-## 🚀 What I’m Working On  
-- Strengthening fundamentals in DSA, OS, CN, and DBMS  
-- Designing scalable backend systems  
-- Building learning-oriented projects and contributing to open-source  
+# 📊 GitHub Analytics
+
+### ⭐ **GitHub Stats**
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jewelj16&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelj16&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📂 Some Repositories  
-| Repository | Description |
-|---|---|
-| `Dailee-App` | Flutter App for local newspaper vendors to supply newspapers |
-| `POSIX-Shell` | C++ Implementation of Linux Shell using Standard System Calls |
-| `Peer-to-Peer Distributed File Sharing System` | C++ Implementation of a simple Peer to Peer File Sharing Application |
+### 🔥 **GitHub Streak Stats**
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=jewelj16&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 What I’m Looking For  
-- Systems-level or research-driven projects  
-- Opportunities to learn, build, and grow  
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jewelj16&theme=matrix&row=1&column=6" />
+</p>
 
 ---
 
-Thanks for visiting — feel free to explore my work! 🚀
+# 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/jewel-joseph/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a> -->
+</p>
+
+---
+
+# 👀 Visitor Counter  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jewelj16&color=brightgreen&style=for-the-badge" />
+</p>
+
+---
+
+<!-- =======================  BOTTOM BANNER  ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:4c8bf5&height=120&section=footer" />
+</p>
