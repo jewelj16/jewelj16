@@ -1,6 +1,6 @@
 <!-- =======================  TOP BANNER  ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c8bf5,100:1e3c72&height=220&text=Hi%20There%20👋%20I'm%20Jewel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,24,42,57&height=200&section=header&text=Hi%20I'm%20Jewel%20👋&fontSize=45&fontColor=ffffff" />
 </p>
 
 # 👨‍💻 About Me  
